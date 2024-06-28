@@ -32,7 +32,7 @@ Fortunately, there are some very good alternatives to SwiftyStoreKit, backed by 
 
 [Qonversion](https://go.qonversion.io/vi6M) is an excellent alternative to SwiftyStoreKit. It provides a robust platform for managing in-app subscriptions and purchases and offers advanced analytics, growth tools, and seamless integrations designed to maximize app revenue potential.
 
--  The platform also features comprehensive [Analytics](https://go.qonversion.io/n8yn), an [Apple Search Ads Dashboard](https://go.qonversion.io/DIaT), and [A/B Tests](https://go.qonversion.io/EImk).
+- The platform also features comprehensive [Analytics](https://go.qonversion.io/n8yn), an [Apple Search Ads Dashboard](https://go.qonversion.io/DIaT), and [A/B Tests](https://go.qonversion.io/EImk).
 - [Qonversion](https://go.qonversion.io/vi6M) offers the most affordable [pricing](https://go.qonversion.io/8SlU) in the market, ensuring you get the best value for your money, along with highly responsive support.
 
 For a smooth transition from SwiftyStoreKit to Qonversion, refer to this [migration guide](https://documentation.qonversion.io/docs/swiftystorekit-alternative).
