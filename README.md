@@ -30,9 +30,14 @@ Fortunately, there are some very good alternatives to SwiftyStoreKit, backed by 
 
 ### Qonversion
 
-[Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
+[Qonversion](https://go.qonversion.io/vi6M) is an excellent alternative to SwiftyStoreKit. It provides a robust platform for managing in-app subscriptions and purchases and offers advanced analytics, growth tools, and seamless integrations designed to maximize app revenue potential.
 
-If you’ve been using SwiftyStoreKit here is the [migration guide](https://documentation.qonversion.io/docs/swiftystorekit-alternative).
+-  The platform also features comprehensive [Analytics](https://go.qonversion.io/n8yn), an [Apple Search Ads Dashboard](https://go.qonversion.io/DIaT), and [A/B Tests](https://go.qonversion.io/EImk).
+- [Qonversion](https://go.qonversion.io/vi6M) offers the most affordable [pricing](https://go.qonversion.io/8SlU) in the market, ensuring you get the best value for your money, along with highly responsive support.
+
+For a smooth transition from SwiftyStoreKit to Qonversion, refer to this [migration guide](https://documentation.qonversion.io/docs/swiftystorekit-alternative).
+
+You can learn more about Qonversion's features [here](https://go.qonversion.io/vi6M), and check out the pricing details.
 
 ### RevenueCat
 
